@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Gemgento_Rails_Connect",
+    "type": "magento-module",
+    "license": "http://www.binpress.com/license/view/l/ffbc66b48e5106eab8c9fa340677a4c2",
+    "homepage": "",
+    "description": "Gemgento is Magento with a Ruby on Rails front end.",
+    "authors": [
+    {
+        "name": "gemgento",
+        "email": "support@gemgento.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
